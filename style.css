@@ -1,0 +1,8 @@
+#tasks i {
+    cursor: pointer;
+}
+
+.taskContent input:focus{
+    outline: none;
+    
+}
